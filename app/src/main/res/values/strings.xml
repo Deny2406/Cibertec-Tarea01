@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Demo02</string>
+    <string name="tittle_data">Registra Datos Personales</string>
+    <string name="name">Nombres</string>
+    <string name="last_name">Apellidos</string>
+    <string name="cellphone">Telefono</string>
+    <string name="save">Grabar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="message_validation">Aun existen valores por rellenar</string>
+    <string name="message_accept">Registro Existoso</string>
+    <string name="order_detail">Detalle Pedido</string>
+    <string name="cost">Costo</string>
+    <string name="quantity">Cantidad</string>
+    <string name="discount">Descuento</string>
+    <string name="total">Total</string>
+    <string name="service_delivery">Servicio Delivery</string>
+    <string name="total_pay">Total a Pagar</string>
+    <string name="imprimir">Imprimir</string>
+    <string name="calcular">Calcular</string>
+</resources>
